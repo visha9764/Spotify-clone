@@ -1,2 +1,2 @@
-# Spotify clone
+# Spotify Frontend clone
  
